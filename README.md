@@ -1,2 +1,7 @@
 # learn-git
+
 learn git
+
+# 参考
+
+git 需要添加 git 的 token 才可提交代码，看[这里](!https://www.cnblogs.com/yorkiiz/p/15154904.htmlm)
