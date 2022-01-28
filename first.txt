@@ -6,3 +6,6 @@ leart git
 
 2022-01-27 13:49
 写点啥好呢，git命令咋这么多啊。
+
+2022-01-28 10:29
+carrot commit1  hello carrot
