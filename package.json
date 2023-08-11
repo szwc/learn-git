@@ -1,0 +1,31 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "learn git",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:lint-staged": "lint-staged",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szwc/learn-git.git"
+  },
+  "keywords": [
+    "learn",
+    "git"
+  ],
+  "author": "carrot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szwc/learn-git/issues"
+  },
+  "homepage": "https://github.com/szwc/learn-git#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.3"
+  }
+}
