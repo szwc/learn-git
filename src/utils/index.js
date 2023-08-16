@@ -7,3 +7,9 @@ function test() {
   console.log("111");
   console.log(a);
 }
+console.log("ccsdff");
+function ffs() {
+  let a = "ccc";
+  console.log(a);
+}
+ffs();
