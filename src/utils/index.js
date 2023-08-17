@@ -13,3 +13,5 @@ function ffs() {
   console.log(a);
 }
 ffs();
+
+console.log("hahaha");
