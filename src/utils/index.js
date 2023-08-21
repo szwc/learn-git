@@ -15,3 +15,8 @@ function ffs() {
 ffs();
 
 console.log("hahaha");
+
+function so() {
+  console.log("so");
+}
+so();
